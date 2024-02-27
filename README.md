@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[[]](https://www.loom.com/share/e1de87d599dc41b19ae68f956b3aec2e?sid=fbacb293-2773-4300-997a-fed4ad07cf9e) 
+[Wordle Demo](https://www.loom.com/share/e1de87d599dc41b19ae68f956b3aec2e?sid=fbacb293-2773-4300-997a-fed4ad07cf9e) 
 
 
 ## Notes
