@@ -25,7 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Wordle Demo](https://www.loom.com/share/e1de87d599dc41b19ae68f956b3aec2e?sid=fbacb293-2773-4300-997a-fed4ad07cf9e) 
+<div>
+    <a href="https://www.loom.com/share/e1de87d599dc41b19ae68f956b3aec2e">
+    </a>
+    <a href="https://www.loom.com/share/e1de87d599dc41b19ae68f956b3aec2e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e1de87d599dc41b19ae68f956b3aec2e-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
